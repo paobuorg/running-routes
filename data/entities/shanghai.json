@@ -1,0 +1,49 @@
+{
+  "entityId": "route:shanghai",
+  "slug": "shanghai",
+  "kind": "route",
+  "status": "published",
+  "riskLevel": "general",
+  "sourceRefs": [
+    "route-shanghai",
+    "route-anchor-editorial"
+  ],
+  "relatedRefs": [
+    "knowledge:marathon-distance",
+    "tool:pace",
+    "tool:splits"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-10-27",
+  "updatedAt": "2026-10-27",
+  "reviewedAt": "2026-10-27",
+  "reviewDueAt": "2027-10-27",
+  "details": {
+    "raceType": "road-marathon",
+    "countryCodes": [
+      "CN"
+    ],
+    "placeName": {
+      "zh-CN": "中国上海",
+      "en": "Shanghai, China"
+    },
+    "mapAnchor": {
+      "longitude": 121.49,
+      "latitude": 31.2397,
+      "kind": "overview",
+      "sourceRef": "route-anchor-editorial"
+    },
+    "courseVersion": "2025-shanghai-official-course",
+    "direction": "Point-to-point from Zhongshan East 1st Road at the Bund to Xujiahui Sports Park",
+    "distanceMeters": 42195,
+    "distanceMethod": "Official 42.195 km",
+    "elevationGainMeters": null,
+    "elevationMethod": null,
+    "geometryAccess": "unavailable",
+    "geometryRef": null,
+    "geometrySourceUrl": null,
+    "geometryLicense": null,
+    "officialGeometryUrl": null,
+    "attribution": "上海马拉松"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "entityId": "route:london",
+  "slug": "london",
+  "kind": "route",
+  "status": "published",
+  "riskLevel": "general",
+  "sourceRefs": [
+    "route-london",
+    "route-anchor-editorial"
+  ],
+  "relatedRefs": [
+    "knowledge:marathon-distance",
+    "tool:pace",
+    "tool:splits"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-10-27",
+  "updatedAt": "2026-10-27",
+  "reviewedAt": "2026-10-27",
+  "reviewDueAt": "2027-10-27",
+  "details": {
+    "raceType": "road-marathon",
+    "countryCodes": [
+      "GB"
+    ],
+    "placeName": {
+      "zh-CN": "英国伦敦",
+      "en": "London, United Kingdom"
+    },
+    "mapAnchor": {
+      "longitude": -0.0077,
+      "latitude": 51.4826,
+      "kind": "overview",
+      "sourceRef": "route-anchor-editorial"
+    },
+    "courseVersion": "2026-london-official-course",
+    "direction": "Point-to-point from the Greenwich/Blackheath start areas to The Mall",
+    "distanceMeters": 42195,
+    "distanceMethod": "Official 26.2 miles / 42.195 km",
+    "elevationGainMeters": null,
+    "elevationMethod": null,
+    "geometryAccess": "unavailable",
+    "geometryRef": null,
+    "geometrySourceUrl": null,
+    "geometryLicense": null,
+    "officialGeometryUrl": null,
+    "attribution": "London Marathon Events"
+  }
+}

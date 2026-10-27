@@ -1,0 +1,16 @@
+{
+  "sourceId": "route-tokyo",
+  "title": "Course – Tokyo Marathon",
+  "url": "https://www.marathon.tokyo/en/about/course/",
+  "publisher": "Tokyo Marathon Foundation",
+  "publishedAt": null,
+  "accessedAt": "2026-10-27",
+  "claims": [
+    "The Tokyo Marathon course starts at the Tokyo Metropolitan Government Building in Shinjuku.",
+    "The official course map shows a 42.195 km course through central Tokyo.",
+    "The official course page publishes an elevation profile and course map.",
+    "The official course map shows central Tokyo landmarks including Tokyo Tower, Asakusa Kaminarimon and Ginza.",
+    "The official course page currently presents the 2027 course; this entity pins the 2026 edition shown in the linked 2026 course map."
+  ],
+  "license": null
+}

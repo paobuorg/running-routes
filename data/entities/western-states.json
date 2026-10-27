@@ -1,0 +1,49 @@
+{
+  "entityId": "route:western-states",
+  "slug": "western-states",
+  "kind": "route",
+  "status": "published",
+  "riskLevel": "general",
+  "sourceRefs": [
+    "route-western-states",
+    "route-anchor-editorial"
+  ],
+  "relatedRefs": [
+    "knowledge:long-run-fueling",
+    "knowledge:recovery-day",
+    "tool:track-view"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-10-27",
+  "updatedAt": "2026-10-27",
+  "reviewedAt": "2026-10-27",
+  "reviewDueAt": "2027-10-27",
+  "details": {
+    "raceType": "trail-ultra",
+    "countryCodes": [
+      "US"
+    ],
+    "placeName": {
+      "zh-CN": "美国加利福尼亚州奥林匹克谷至奥本",
+      "en": "Olympic Valley to Auburn, California, USA"
+    },
+    "mapAnchor": {
+      "longitude": -120.235,
+      "latitude": 39.196,
+      "kind": "overview",
+      "sourceRef": "route-anchor-editorial"
+    },
+    "courseVersion": "2026-western-states-official-course",
+    "direction": "Point-to-point from Olympic Valley to Placer High School in Auburn",
+    "distanceMeters": 161300,
+    "distanceMethod": "Official 100.2 miles (about 161.3 km)",
+    "elevationGainMeters": 5514,
+    "elevationMethod": "Official 18,090 ft climb (about 5,514 m)",
+    "geometryAccess": "unavailable",
+    "geometryRef": null,
+    "geometrySourceUrl": null,
+    "geometryLicense": null,
+    "officialGeometryUrl": null,
+    "attribution": "Western States Endurance Run Foundation"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "sourceId": "route-anchor-editorial",
+  "title": "RunMap editorial map-anchor method",
+  "url": "https://paobu.org/zh-CN/about/#method",
+  "publisher": "RunMap",
+  "publishedAt": null,
+  "accessedAt": "2026-10-27",
+  "claims": [
+    "Map anchors are editorial overview coordinates, not official start, finish or course positions."
+  ],
+  "license": "CC-BY-4.0"
+}

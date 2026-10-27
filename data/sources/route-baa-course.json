@@ -1,0 +1,16 @@
+{
+  "sourceId": "route-baa-course",
+  "title": "The Course",
+  "url": "https://www.baa.org/races/boston-marathon/the-course/",
+  "publisher": "Boston Athletic Association",
+  "publishedAt": null,
+  "accessedAt": "2026-10-26",
+  "claims": [
+    "The Boston Marathon starts in Hopkinton, Massachusetts.",
+    "The Boston Marathon finishes on Boylston Street in Boston.",
+    "The official course map may not be reproduced.",
+    "The 2026 BAA course page links an official course map.",
+    "The map anchor used on this page is an editorial overview coordinate, not an official start or finish point."
+  ],
+  "license": null
+}

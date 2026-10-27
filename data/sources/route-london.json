@@ -1,0 +1,15 @@
+{
+  "sourceId": "route-london",
+  "title": "The Course – TCS London Marathon",
+  "url": "https://www.londonmarathonevents.co.uk/london-marathon/course",
+  "publisher": "London Marathon Events",
+  "publishedAt": null,
+  "accessedAt": "2026-10-27",
+  "claims": [
+    "The London Marathon starts in the Greenwich and Blackheath areas and finishes on The Mall.",
+    "The course is a point-to-point route through London.",
+    "The official course page provides the route map.",
+    "The official course material identifies Tower Bridge as a landmark on the point-to-point route."
+  ],
+  "license": null
+}

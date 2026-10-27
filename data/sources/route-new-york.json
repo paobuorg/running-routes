@@ -1,0 +1,14 @@
+{
+  "sourceId": "route-new-york",
+  "title": "TCS New York City Marathon",
+  "url": "https://www.nyrr.org/tcsnycmarathon",
+  "publisher": "NYRR",
+  "publishedAt": null,
+  "accessedAt": "2026-10-27",
+  "claims": [
+    "The New York City Marathon starts at Fort Wadsworth on Staten Island.",
+    "The course crosses all five boroughs and finishes in Central Park.",
+    "The official site provides race and course information; public access may use a queue."
+  ],
+  "license": null
+}

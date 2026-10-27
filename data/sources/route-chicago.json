@@ -1,0 +1,14 @@
+{
+  "sourceId": "route-chicago",
+  "title": "Course – Bank of America Chicago Marathon",
+  "url": "https://www.chicagomarathon.com/event-info/participant-information/course/",
+  "publisher": "Chicago Marathon",
+  "publishedAt": null,
+  "accessedAt": "2026-10-27",
+  "claims": [
+    "The Chicago Marathon starts and finishes in Grant Park.",
+    "The official course passes through many Chicago neighbourhoods.",
+    "The official site provides a course-map PDF."
+  ],
+  "license": null
+}

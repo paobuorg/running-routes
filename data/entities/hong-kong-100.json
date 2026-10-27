@@ -1,0 +1,49 @@
+{
+  "entityId": "route:hong-kong-100",
+  "slug": "hong-kong-100",
+  "kind": "route",
+  "status": "published",
+  "riskLevel": "general",
+  "sourceRefs": [
+    "route-hong-kong-100",
+    "route-anchor-editorial"
+  ],
+  "relatedRefs": [
+    "knowledge:long-run-fueling",
+    "knowledge:recovery-day",
+    "tool:track-view"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-10-27",
+  "updatedAt": "2026-10-27",
+  "reviewedAt": "2026-10-27",
+  "reviewDueAt": "2027-10-27",
+  "details": {
+    "raceType": "trail-ultra",
+    "countryCodes": [
+      "HK"
+    ],
+    "placeName": {
+      "zh-CN": "中国香港西贡至大帽山",
+      "en": "Sai Kung to Tai Mo Shan, Hong Kong"
+    },
+    "mapAnchor": {
+      "longitude": 114.321,
+      "latitude": 22.394,
+      "kind": "overview",
+      "sourceRef": "route-anchor-editorial"
+    },
+    "courseVersion": "2027-hong-kong-100-official-course",
+    "direction": "Point-to-point from Pak Tam Chung, Sai Kung, to Rotary Club Park, Tai Mo Shan Road",
+    "distanceMeters": 100000,
+    "distanceMethod": "Official 100 km",
+    "elevationGainMeters": 5142,
+    "elevationMethod": "Official climb about 5,142 m",
+    "geometryAccess": "unavailable",
+    "geometryRef": null,
+    "geometrySourceUrl": null,
+    "geometryLicense": null,
+    "officialGeometryUrl": null,
+    "attribution": "Hong Kong 100 Ultra Marathon"
+  }
+}

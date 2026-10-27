@@ -1,0 +1,15 @@
+{
+  "sourceId": "route-sydney",
+  "title": "Course – TCS Sydney Marathon",
+  "url": "https://www.tcssydneymarathon.com/course",
+  "publisher": "TCS Sydney Marathon",
+  "publishedAt": null,
+  "accessedAt": "2026-10-27",
+  "claims": [
+    "The Sydney Marathon starts on Miller Street in North Sydney and finishes at the Sydney Opera House.",
+    "The official course lists 42.195 km with +313 m elevation gain and −83 m net drop.",
+    "The organiser publishes an official 2026 GPX download.",
+    "The official course crosses the Sydney Harbour Bridge before finishing at the Opera House."
+  ],
+  "license": null
+}

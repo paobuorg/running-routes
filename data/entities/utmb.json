@@ -1,0 +1,51 @@
+{
+  "entityId": "route:utmb",
+  "slug": "utmb",
+  "kind": "route",
+  "status": "published",
+  "riskLevel": "general",
+  "sourceRefs": [
+    "route-utmb-2026"
+  ],
+  "relatedRefs": [
+    "knowledge:long-run-fueling",
+    "knowledge:recovery-day",
+    "tool:track-view",
+    "tool:splits"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-10-26",
+  "updatedAt": "2026-10-27",
+  "reviewedAt": "2026-10-27",
+  "reviewDueAt": "2027-10-27",
+  "details": {
+    "raceType": "trail-ultra",
+    "countryCodes": [
+      "FR",
+      "IT",
+      "CH"
+    ],
+    "placeName": {
+      "zh-CN": "法国霞慕尼，环勃朗峰",
+      "en": "Chamonix, around Mont Blanc"
+    },
+    "mapAnchor": {
+      "longitude": 6.8694,
+      "latitude": 45.9237,
+      "kind": "start",
+      "sourceRef": "route-utmb-2026"
+    },
+    "courseVersion": "2026-utmb-mont-blanc",
+    "direction": "Start and finish in Chamonix; the course crosses Italy, Switzerland and France",
+    "distanceMeters": 174000,
+    "distanceMethod": "Official 2026 UTMB page stat block: 174 km",
+    "elevationGainMeters": 9700,
+    "elevationMethod": "Official 2026 UTMB page stat block: 9,700 m positive elevation gain",
+    "geometryAccess": "official-link",
+    "geometryRef": null,
+    "geometrySourceUrl": "https://pdf.utmb.world/raw/upload/v1786442971/montblanc/Races/GPX/2026/UTMB_2026_25e2a492e6.gpx",
+    "geometryLicense": null,
+    "officialGeometryUrl": "https://pdf.utmb.world/raw/upload/v1786442971/montblanc/Races/GPX/2026/UTMB_2026_25e2a492e6.gpx",
+    "attribution": "UTMB Mont-Blanc / UTMB World Series"
+  }
+}

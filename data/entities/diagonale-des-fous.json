@@ -1,0 +1,49 @@
+{
+  "entityId": "route:diagonale-des-fous",
+  "slug": "diagonale-des-fous",
+  "kind": "route",
+  "status": "published",
+  "riskLevel": "general",
+  "sourceRefs": [
+    "route-diagonale-des-fous",
+    "route-anchor-editorial"
+  ],
+  "relatedRefs": [
+    "knowledge:long-run-fueling",
+    "knowledge:recovery-day",
+    "tool:track-view"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-10-27",
+  "updatedAt": "2026-10-27",
+  "reviewedAt": "2026-10-27",
+  "reviewDueAt": "2027-10-27",
+  "details": {
+    "raceType": "trail-ultra",
+    "countryCodes": [
+      "RE"
+    ],
+    "placeName": {
+      "zh-CN": "留尼汪岛圣皮埃尔至圣但尼",
+      "en": "Saint-Pierre to Saint-Denis, Réunion"
+    },
+    "mapAnchor": {
+      "longitude": 55.478,
+      "latitude": -21.339,
+      "kind": "overview",
+      "sourceRef": "route-anchor-editorial"
+    },
+    "courseVersion": "2026-diagonale-des-fous-official-course",
+    "direction": "Point-to-point from Saint-Pierre to Saint-Denis",
+    "distanceMeters": 180000,
+    "distanceMethod": "Official about 180 km",
+    "elevationGainMeters": 10200,
+    "elevationMethod": "Official climb about 10,200 m",
+    "geometryAccess": "unavailable",
+    "geometryRef": null,
+    "geometrySourceUrl": null,
+    "geometryLicense": null,
+    "officialGeometryUrl": null,
+    "attribution": "Grand Raid de La Réunion"
+  }
+}

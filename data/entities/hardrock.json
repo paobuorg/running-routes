@@ -1,0 +1,49 @@
+{
+  "entityId": "route:hardrock",
+  "slug": "hardrock",
+  "kind": "route",
+  "status": "published",
+  "riskLevel": "general",
+  "sourceRefs": [
+    "route-hardrock",
+    "route-anchor-editorial"
+  ],
+  "relatedRefs": [
+    "knowledge:long-run-fueling",
+    "knowledge:recovery-day",
+    "tool:track-view"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-10-27",
+  "updatedAt": "2026-10-27",
+  "reviewedAt": "2026-10-27",
+  "reviewDueAt": "2027-10-27",
+  "details": {
+    "raceType": "trail-ultra",
+    "countryCodes": [
+      "US"
+    ],
+    "placeName": {
+      "zh-CN": "美国科罗拉多州西尔弗顿",
+      "en": "Silverton, Colorado, USA"
+    },
+    "mapAnchor": {
+      "longitude": -107.664,
+      "latitude": 37.811,
+      "kind": "overview",
+      "sourceRef": "route-anchor-editorial"
+    },
+    "courseVersion": "2026-hardrock-official-course",
+    "direction": "Silverton loop; direction alternates each year",
+    "distanceMeters": 163800,
+    "distanceMethod": "Official 101.8 miles (about 163.8 km)",
+    "elevationGainMeters": 10193,
+    "elevationMethod": "Official 33,441 ft climb (about 10,193 m)",
+    "geometryAccess": "official-link",
+    "geometryRef": null,
+    "geometrySourceUrl": null,
+    "geometryLicense": null,
+    "officialGeometryUrl": "https://hardrock100.com/files/course/HR100-Course-Clockwise.gpx",
+    "attribution": "Hardrock Hundred Endurance Run"
+  }
+}

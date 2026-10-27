@@ -1,0 +1,49 @@
+{
+  "entityId": "route:tokyo",
+  "slug": "tokyo",
+  "kind": "route",
+  "status": "published",
+  "riskLevel": "general",
+  "sourceRefs": [
+    "route-tokyo",
+    "route-anchor-editorial"
+  ],
+  "relatedRefs": [
+    "knowledge:marathon-distance",
+    "tool:pace",
+    "tool:splits"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-10-27",
+  "updatedAt": "2026-10-27",
+  "reviewedAt": "2026-10-27",
+  "reviewDueAt": "2027-10-27",
+  "details": {
+    "raceType": "road-marathon",
+    "countryCodes": [
+      "JP"
+    ],
+    "placeName": {
+      "zh-CN": "日本东京",
+      "en": "Tokyo, Japan"
+    },
+    "mapAnchor": {
+      "longitude": 139.6917,
+      "latitude": 35.6896,
+      "kind": "overview",
+      "sourceRef": "route-anchor-editorial"
+    },
+    "courseVersion": "2026-tokyo-official-course",
+    "direction": "Point-to-point from the Tokyo Metropolitan Government Building in Shinjuku to the Wadakura-Gate area by the Imperial Palace",
+    "distanceMeters": 42195,
+    "distanceMethod": "Official 42.195 km",
+    "elevationGainMeters": null,
+    "elevationMethod": null,
+    "geometryAccess": "unavailable",
+    "geometryRef": null,
+    "geometrySourceUrl": null,
+    "geometryLicense": null,
+    "officialGeometryUrl": null,
+    "attribution": "Tokyo Marathon Foundation"
+  }
+}

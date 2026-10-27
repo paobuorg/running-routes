@@ -1,0 +1,49 @@
+{
+  "entityId": "route:beijing",
+  "slug": "beijing",
+  "kind": "route",
+  "status": "published",
+  "riskLevel": "general",
+  "sourceRefs": [
+    "route-beijing",
+    "route-anchor-editorial"
+  ],
+  "relatedRefs": [
+    "knowledge:marathon-distance",
+    "tool:pace",
+    "tool:splits"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-10-27",
+  "updatedAt": "2026-10-27",
+  "reviewedAt": "2026-10-27",
+  "reviewDueAt": "2027-10-27",
+  "details": {
+    "raceType": "road-marathon",
+    "countryCodes": [
+      "CN"
+    ],
+    "placeName": {
+      "zh-CN": "中国北京",
+      "en": "Beijing, China"
+    },
+    "mapAnchor": {
+      "longitude": 116.3976,
+      "latitude": 39.9055,
+      "kind": "overview",
+      "sourceRef": "route-anchor-editorial"
+    },
+    "courseVersion": "2026-beijing-official-course",
+    "direction": "Point-to-point from the east side of Tiananmen Square to the Olympic Park central Landscape Avenue",
+    "distanceMeters": 42195,
+    "distanceMethod": "Official 42.195 km",
+    "elevationGainMeters": null,
+    "elevationMethod": null,
+    "geometryAccess": "unavailable",
+    "geometryRef": null,
+    "geometrySourceUrl": null,
+    "geometryLicense": null,
+    "officialGeometryUrl": null,
+    "attribution": "北京马拉松组织委员会"
+  }
+}

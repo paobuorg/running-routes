@@ -1,0 +1,49 @@
+{
+  "entityId": "route:boston",
+  "slug": "boston",
+  "kind": "route",
+  "status": "published",
+  "riskLevel": "general",
+  "sourceRefs": [
+    "route-baa-course",
+    "route-world-athletics-marathon"
+  ],
+  "relatedRefs": [
+    "knowledge:marathon-distance",
+    "knowledge:easy-run",
+    "tool:pace"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-10-26",
+  "updatedAt": "2026-10-27",
+  "reviewedAt": "2026-10-27",
+  "reviewDueAt": "2027-10-27",
+  "details": {
+    "raceType": "road-marathon",
+    "countryCodes": [
+      "US"
+    ],
+    "placeName": {
+      "zh-CN": "美国马萨诸塞州，霍普金顿至波士顿",
+      "en": "Hopkinton to Boston, Massachusetts, USA"
+    },
+    "mapAnchor": {
+      "longitude": -71.0589,
+      "latitude": 42.3601,
+      "kind": "overview",
+      "sourceRef": "route-baa-course"
+    },
+    "courseVersion": "2026-baa-published-course",
+    "direction": "Point-to-point from Hopkinton to Boston",
+    "distanceMeters": 42195,
+    "distanceMethod": "Standard marathon distance; the BAA publishes the Hopkinton-to-Boston course",
+    "elevationGainMeters": null,
+    "elevationMethod": null,
+    "geometryAccess": "unavailable",
+    "geometryRef": null,
+    "geometrySourceUrl": null,
+    "geometryLicense": null,
+    "officialGeometryUrl": null,
+    "attribution": null
+  }
+}

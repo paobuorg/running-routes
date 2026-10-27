@@ -1,0 +1,49 @@
+{
+  "entityId": "route:cape-town",
+  "slug": "cape-town",
+  "kind": "route",
+  "status": "published",
+  "riskLevel": "general",
+  "sourceRefs": [
+    "route-cape-town",
+    "route-anchor-editorial"
+  ],
+  "relatedRefs": [
+    "knowledge:marathon-distance",
+    "tool:pace",
+    "tool:route-compare"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-10-27",
+  "updatedAt": "2026-10-27",
+  "reviewedAt": "2026-10-27",
+  "reviewDueAt": "2027-10-27",
+  "details": {
+    "raceType": "road-marathon",
+    "countryCodes": [
+      "ZA"
+    ],
+    "placeName": {
+      "zh-CN": "南非开普敦",
+      "en": "Cape Town, South Africa"
+    },
+    "mapAnchor": {
+      "longitude": 18.41,
+      "latitude": -33.906,
+      "kind": "overview",
+      "sourceRef": "route-anchor-editorial"
+    },
+    "courseVersion": "2026-cape-town-official-course",
+    "direction": "Two start areas (Fritz Sonnenberg Rd and Beach Rd) on a city circuit, finishing on Vlei Road, Green Point",
+    "distanceMeters": 42200,
+    "distanceMethod": "Official 42.2 km",
+    "elevationGainMeters": null,
+    "elevationMethod": null,
+    "geometryAccess": "unavailable",
+    "geometryRef": null,
+    "geometrySourceUrl": null,
+    "geometryLicense": null,
+    "officialGeometryUrl": null,
+    "attribution": "Cape Town Marathon"
+  }
+}
