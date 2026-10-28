@@ -7,7 +7,7 @@ This repository holds the route records, bilingual articles, sources and review 
 ## Status
 
 - The initial 16-route set covers Boston, UTMB, Tokyo, London, Berlin, Chicago, New York, Sydney, Cape Town, Beijing, Shanghai, Western States, Hardrock, Hong Kong 100, Diagonale des Fous and Tor des Géants.
-- All 16 routes were **AI-assisted editorially reviewed** and published on 2026-10-27 (`published`, with bilingual `approve` records and matching digests). The reviewer is `runmap-editorial`, explicitly AI-assisted, not independent or professional review. The initial route list is covered 16/16.
+- All 16 routes were **AI-assisted editorially reviewed** and published on 2026-10-28 (`published`, with bilingual `approve` records and matching digests). The reviewer is `runmap-editorial`, explicitly AI-assisted, not independent or professional review. The initial route list is covered 16/16.
 - There is no remote repository, public issue tracker or deployed site yet. This repository does not claim professional review.
 
 ## Scope
@@ -50,4 +50,4 @@ See [site-www](../site-www/README.md) for preview commands. The build validates 
 
 Once the repository is hosted, report factual or source problems through an issue or pull request that names the paragraph, source and proposed change. No public issue URL or email address exists yet, and none is invented here. See [CONTRIBUTING.md](CONTRIBUTING.md), whose second half is in English.
 
-Last checked: 2026-10-27.
+Last checked: 2026-10-28.
