@@ -24,7 +24,7 @@ This is a night-start tropical-island ultra where distance and climb are only th
 - The organiser prohibits scouting on some private-land sections and publishes no redistributable GPX; this site provides only an anchor and official link.
 - Distance basis: Official about 180 km.
 - Elevation basis: Official climb about 10,200 m
-- The map anchor is a RunMap editorial overview location, not an official start, finish or course coordinate.
+- The map anchor is a RunUp editorial overview location, not an official start, finish or course coordinate.
 
 ## Scope and limits
 
@@ -36,4 +36,4 @@ Treat it as a pinned-version entry, not a navigation tool. Confirm the year, cat
 
 ## Sources and reuse
 
-This page was written by RunMap from Grand Raid de La Réunion's public material and is licensed CC BY 4.0. Event names, official marks, official route text and official files remain the property of the organiser; This site has no redistributable course track; where the organiser publishes a map, the official page remains the final authority.
+This page was written by RunUp from Grand Raid de La Réunion's public material and is licensed CC BY 4.0. Event names, official marks, official route text and official files remain the property of the organiser; This site has no redistributable course track; where the organiser publishes a map, the official page remains the final authority.

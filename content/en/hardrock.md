@@ -24,7 +24,7 @@ Hardrock’s altitude, long exposure and alternating direction mean a single tra
 - Direction alternates each year; confirm the current direction before using a GPX and never mix clockwise and counter-clockwise tracks.
 - Distance basis: Official 101.8 miles (about 163.8 km).
 - Elevation basis: Official 33,441 ft climb (about 10,193 m)
-- The map anchor is a RunMap editorial overview location, not an official start, finish or course coordinate.
+- The map anchor is a RunUp editorial overview location, not an official start, finish or course coordinate.
 
 ## Scope and limits
 
@@ -36,4 +36,4 @@ Treat it as a pinned-version entry, not a navigation tool. Confirm the year, cat
 
 ## Sources and reuse
 
-This page was written by RunMap from Hardrock Hundred Endurance Run's public material and is licensed CC BY 4.0. Event names, official marks, official route text and official files remain the property of the organiser; The organiser provides an official GPX download; this page links to it but does not bundle or redistribute it.
+This page was written by RunUp from Hardrock Hundred Endurance Run's public material and is licensed CC BY 4.0. Event names, official marks, official route text and official files remain the property of the organiser; The organiser provides an official GPX download; this page links to it but does not bundle or redistribute it.

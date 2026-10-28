@@ -24,7 +24,7 @@ Two starts mean one track cannot represent every runner: confirm your wave and s
 - An official route-map PDF is available, but no redistributable public GPX; one track could not represent all runners from two starts.
 - Distance basis: Official 42.2 km.
 - Elevation basis: The official page does not give a climb figure verified for this site, so it remains unknown here.
-- The map anchor is a RunMap editorial overview location, not an official start, finish or course coordinate.
+- The map anchor is a RunUp editorial overview location, not an official start, finish or course coordinate.
 
 ## Scope and limits
 
@@ -36,4 +36,4 @@ Treat it as a pinned-version entry, not a navigation tool. Confirm the year, cat
 
 ## Sources and reuse
 
-This page was written by RunMap from Cape Town Marathon's public material and is licensed CC BY 4.0. Event names, official marks, official route text and official files remain the property of the organiser; This site has no redistributable course track; where the organiser publishes a map, the official page remains the final authority.
+This page was written by RunUp from Cape Town Marathon's public material and is licensed CC BY 4.0. Event names, official marks, official route text and official files remain the property of the organiser; This site has no redistributable course track; where the organiser publishes a map, the official page remains the final authority.

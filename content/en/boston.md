@@ -40,7 +40,7 @@ Treat this page as a pre-race orientation, not a navigation tool:
 
 ## Sources and reuse
 
-This page was written by RunMap from the organiser's public pages and is licensed CC BY 4.0. The event name, official marks, official route text and official map remain the property of the organiser. No track file is included on this page. When quoting this page, keep the source links and version date.
+This page was written by RunUp from the organiser's public pages and is licensed CC BY 4.0. The event name, official marks, official route text and official map remain the property of the organiser. No track file is included on this page. When quoting this page, keep the source links and version date.
 
 ## Sources
 

@@ -24,7 +24,7 @@ A same-place start and finish simplifies accommodation and post-race movement, b
 - An official course-map PDF is published, but no redistributable public GPX.
 - Distance basis: Official 26.2 miles / 42.195 km.
 - Elevation basis: The official page does not give a climb figure verified for this site, so it remains unknown here.
-- The map anchor is a RunMap editorial overview location, not an official start, finish or course coordinate.
+- The map anchor is a RunUp editorial overview location, not an official start, finish or course coordinate.
 
 ## Scope and limits
 
@@ -36,4 +36,4 @@ Treat it as a pinned-version entry, not a navigation tool. Confirm the year, cat
 
 ## Sources and reuse
 
-This page was written by RunMap from Chicago Marathon's public material and is licensed CC BY 4.0. Event names, official marks, official route text and official files remain the property of the organiser; This site has no redistributable course track; where the organiser publishes a map, the official page remains the final authority.
+This page was written by RunUp from Chicago Marathon's public material and is licensed CC BY 4.0. Event names, official marks, official route text and official files remain the property of the organiser; This site has no redistributable course track; where the organiser publishes a map, the official page remains the final authority.

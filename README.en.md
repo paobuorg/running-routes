@@ -1,8 +1,8 @@
-# RunMap · Route content
+# RUNUP · Route content
 
 [中文](README.md) · English
 
-This repository holds the route records, bilingual articles, sources and review data used by the RunMap main site. It is a content-only repository: it has no site runtime code, `package.json`, `node_modules` or build output.
+This repository holds the route records, bilingual articles, sources and review data used by the RunUp main site. It is a content-only repository: it has no site runtime code, `package.json`, `node_modules` or build output.
 
 ## Status
 
@@ -44,7 +44,7 @@ See [site-www](../site-www/README.md) for preview commands. The build validates 
 
 ## Licence and corrections
 
-- New article text: CC BY 4.0, attributed to “RunMap 跑地图”.
+- New article text: CC BY 4.0, attributed to “RunUp 跑起来”.
 - Tracks, images and third-party assets: under each source's terms, recorded per entity or source. Material without confirmed rights does not enter the repository.
 - Site code: MIT, in the three `site-*` repositories.
 
