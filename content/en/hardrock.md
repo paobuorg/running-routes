@@ -26,7 +26,7 @@ Hardrock’s altitude, long exposure and alternating direction mean a single tra
 - Elevation basis: Official 33,441 ft climb (about 10,193 m)
 - The map anchor is a RunMap editorial overview location, not an official start, finish or course coordinate.
 
-## What this page does not provide
+## Scope and limits
 
 The organiser provides an official GPX download; this page links to it but does not bundle or redistribute it. It does not treat a third-party track, illustration or elevation sketch as official geometry; race-day routes can also change because of construction, weather or safety arrangements.
 
@@ -36,4 +36,4 @@ Treat it as a pinned-version entry, not a navigation tool. Confirm the year, cat
 
 ## Sources and reuse
 
-This original explanatory text was prepared by the RunMap editorial desk from Hardrock Hundred Endurance Run's public material and is licensed CC BY 4.0. Event names, official marks, official route text and official files remain the property of the organiser; The organiser provides an official GPX download; this page links to it but does not bundle or redistribute it.
+This page was written by RunMap from Hardrock Hundred Endurance Run's public material and is licensed CC BY 4.0. Event names, official marks, official route text and official files remain the property of the organiser; The organiser provides an official GPX download; this page links to it but does not bundle or redistribute it.

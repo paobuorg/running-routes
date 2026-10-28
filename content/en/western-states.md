@@ -26,7 +26,7 @@ This is a point-to-point mountain ultra; distance, climb, aid spacing and heat a
 - Elevation basis: Official 18,090 ft climb (about 5,514 m)
 - The map anchor is a RunMap editorial overview location, not an official start, finish or course coordinate.
 
-## What this page does not provide
+## Scope and limits
 
 The organiser provides route and map material; this site does not bundle or redistribute a track file. It does not treat a third-party track, illustration or elevation sketch as official geometry; race-day routes can also change because of construction, weather or safety arrangements.
 
@@ -36,4 +36,4 @@ Treat it as a pinned-version entry, not a navigation tool. Confirm the year, cat
 
 ## Sources and reuse
 
-This original explanatory text was prepared by the RunMap editorial desk from Western States Endurance Run Foundation's public material and is licensed CC BY 4.0. Event names, official marks, official route text and official files remain the property of the organiser; The organiser provides route and map material; this site does not bundle or redistribute a track file.
+This page was written by RunMap from Western States Endurance Run Foundation's public material and is licensed CC BY 4.0. Event names, official marks, official route text and official files remain the property of the organiser; The organiser provides route and map material; this site does not bundle or redistribute a track file.

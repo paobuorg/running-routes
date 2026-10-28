@@ -43,7 +43,7 @@ Only if the organiser later grants explicit redistribution permission will this 
 
 ## Sources and reuse
 
-This text was prepared by the RunMap editorial desk from the organiser's 2026 public pages and is licensed CC BY 4.0. The event name, official marks, official route text and official GPX remain the property of the organiser; this page's original explanatory text is CC BY 4.0. The track is linked from the organiser, not redistributed here.
+This page was written by RunMap from the organiser's 2026 public pages and is licensed CC BY 4.0. The event name, official marks, official route text and official GPX remain the property of the organiser; this page's original explanatory text is CC BY 4.0. The track is linked from the organiser, not redistributed here.
 
 ## Sources
 

@@ -23,7 +23,7 @@ This page separates two things: the **course identity** and the **course geometr
 - The race uses the standard marathon distance of 42.195 kilometres.
 - The course version pinned on this page is `2026-baa-published-course`, based on the BAA's 2026 course page and official map. If the organiser changes the route, this page must be re-checked and the version updated.
 
-## What this page does not provide
+## Scope and limits
 
 The official course page explains the event and links the official course map, but it does **not grant us permission to copy or redistribute the full track**. This page therefore shows no segment-by-segment elevation, gradient profile or downloadable GPX, and it does not treat a track from another website as official geometry. The map anchor is an editorial overview position on the Boston side, not a BAA start or finish coordinate; the source page is used only to confirm the general city location.
 
@@ -40,7 +40,7 @@ Treat this page as a pre-race orientation, not a navigation tool:
 
 ## Sources and reuse
 
-This original explanatory text was prepared by the RunMap editorial desk from the organiser's public pages and is licensed CC BY 4.0. The event name, official marks, official route text and official map remain the property of the organiser. No track file is included on this page. When quoting this page, keep the source links and version date.
+This page was written by RunMap from the organiser's public pages and is licensed CC BY 4.0. The event name, official marks, official route text and official map remain the property of the organiser. No track file is included on this page. When quoting this page, keep the source links and version date.
 
 ## Sources
 
